@@ -56,3 +56,4 @@ AI: Hello, I am your personal mental health AI assistant. How are you doing toda
 });
 const port = 3000;
 app.listen(port, () => console.log(`App listening on port ${port}!`))
+// successfully completed
